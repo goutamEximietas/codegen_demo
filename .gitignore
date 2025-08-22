@@ -1,0 +1,14 @@
+.env
+*.marker
+__pycache__/
+*.pyc
+.env
+.vscode/
+.venv/
+venv/
+env/
+node_modules/
+.DS_Store
+backend/mainV2.py
+logs/
+OAI_CONFIG_LIST
