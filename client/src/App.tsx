@@ -122,6 +122,8 @@ const App: React.FC = () => {
       }
   }
 
+
+  
   // --- Render ---
   return (
     <div className=" dark:bg-gray-900 text-gray-800 dark:text-gray-200 min-h-screen font-inter transition-colors duration-300">
